@@ -36,7 +36,7 @@ name: Nitesh
 location: Mathura, Uttar Pradesh, India
 education: B.Tech Computer Science @ GLA University
 
-role: Full Stack Developer (MERN)
+role: Software Engineer | Full Stack Developer (MERN)
 focus:
   - Scalable Web Applications
   - AI-Powered Products
