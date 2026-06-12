@@ -36,7 +36,7 @@ name: Nitesh
 location: Mathura, Uttar Pradesh, India
 education: B.Tech Computer Science @ GLA University
 
-role: Software Engineer | Full Stack Developer (MERN)
+role: Software Engineer || Full Stack Developer (MERN)
 focus:
   - Scalable Web Applications
   - AI-Powered Products
@@ -282,7 +282,7 @@ A robust property management engine with enterprise-level security and optimized
 
 ### 🎯 Currently Targeting
 ```
-📌 SDE Internship — 2025
+📌 SDE Internship — 2026
 📌 Open Source Contributions
 📌 System Design Mastery
 ```
@@ -326,7 +326,7 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## OK OK lemme tell you joke 😅
+## OK OK lemme tell you a joke 😅
 
 <div align="center">
 
