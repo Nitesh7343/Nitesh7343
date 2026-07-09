@@ -49,6 +49,7 @@ stats:
 currently_learning:
   - Spring Boot & Java Ecosystem
   - System Design (HLD + LLD)
+  - System Architecture
   - Distributed Systems & Cloud
   - Artificial Intelligence & Machine Learning
 
